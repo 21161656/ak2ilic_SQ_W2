@@ -17,8 +17,8 @@ Jump: w or up arrow
 
 | File | Source |
 |------|--------|
-| `assets/images/Celeste Background.png` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ |
-| `assets/images/celeste character.png` |https://celestegame.fandom.com/wiki/Madeline |
+| `assets/images/Celeste Background.png` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ [1]|
+| `assets/images/celeste character.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
 
 ## Refrences: 
 
