@@ -13,17 +13,6 @@ Move left: A or left arrow
 Move right: D or right arrow
 Jump: w or up arrow
 
-## Assets:
-
-Celeste background image inspired by the video game
-source: https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ 
-
-Celeste main character 
-source: https://celestegame.fandom.com/wiki/Madeline
-
-Library:
-p5.js JavaScript library used for gameplay, rendering, and interaction.
-
 ## Assets
 
 | File | Source |
