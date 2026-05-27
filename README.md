@@ -29,6 +29,7 @@ p5.js JavaScript library used for gameplay, rendering, and interaction.
 | File | Source |
 |------|--------|
 | `assets/images/Celeste Background.png` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ |
+| `assets/images/celeste character.png` |https://celestegame.fandom.com/wiki/Madeline |
 
 ## Refrences: 
 
